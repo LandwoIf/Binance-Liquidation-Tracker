@@ -1,6 +1,6 @@
 # Binance-Liquidation-Tracker
 
-```markdown
+
 # Binance Futures Liquidation Feed
 
 This Python script connects to the Binance Futures WebSocket API to stream real-time liquidation events. It filters and displays liquidation orders based on user-defined criteria.
